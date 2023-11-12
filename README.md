@@ -1,3 +1,3 @@
 # GitMasteryChallenge
 
-this is lab exersise that was given by our teacher
+this is lab exercise that was given by our teacher
