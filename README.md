@@ -9,3 +9,5 @@ in this lab exercise we are going to experment on the following lists
 - [ ] Pull Requests
 - [ ] Resolving Issues
 - [ ] Push all the changes to the GitHub repository.
+
+Hope this all goes well and i will finish on time.
